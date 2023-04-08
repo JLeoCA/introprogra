@@ -1,0 +1,26 @@
+Queremos un programa que convierta de decimal a binario.
+Entonces nosotros debemos saber que un binario esta formado por "0" y "1".
+Tenemos un numero entero, los enteros son en base 10, porque van desde el 0 hasta el 9.
+Entonces debemos dividirlos por dos, tomamos solo la parte entera. Volvemos a dividir hasta llegar a la unidad "1".
+Luego vemos cuales son pares e impares. Escribimos uno si es impar y cero si es par. 
+Entonces ya tenemos el binario. Ahora en codigo deben salir de forma inversa. 
+	
+
+Empezamos colocando la variable "int" pero utilizando un vector con los signos "[]". debemos darle espacio en memoria. No dejarlo en "0".
+Pedimos al usuario que ingrese un numero en base 10. 
+Usamos "cin" y lo guardamos en "int" en el espacio 0, ya que todo arreglo empieza en cero.
+	
+Ocupamos "for", ponemos "i" igual a 0, y la condicion logica es hasta cuando queremos que se cumple. 
+Cuando el valor del int con indice "i" sea distinto de "1" se detenga. 
+
+Ocupamos el "for" para mostrarlo en inversa una vez tengamos el codigo.
+
+
+Entrada:
+	int [];
+	
+Codigo: 
+	for()[];
+Salida:
+	cout << << endl;
+				

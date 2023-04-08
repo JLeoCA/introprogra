@@ -1,0 +1,17 @@
+//Declaramos las variables, en este caso tenemos enteros
+  Para saber si un numero es palindromo debemos invertirlo
+  Debemos determinar que el numero tiene que ser mayor a 0
+  Tenemos las entradas :
+	int numero;
+	int suma;
+	int x;
+  Mostramos el mensaje "ingrese un numero"
+  Usamos la variable "While"
+  while (condicion){
+  "codigo" 
+  }
+  Usamos la funcion "Trunc" (que sirve para omitir los digitos menos significantes)
+  
+  Luego ocupamos "if" para verificar la condicion si el numero ingresado es igual al resultado
+  (n == x)
+   si se cumple muestra el mensaje "es palindromo" sino muestra "no es palindromo"

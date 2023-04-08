@@ -1,0 +1,16 @@
+// Declaramos las variables tipo int
+     m = money valor de 20
+     h = helado	con valor de 5
+   
+	Ocupamos el Cout para la salida, para mostrar dos mensajes.
+	"tiene 20$" 
+	"el helado cuesta 5$"
+	
+	Ocupamos la variable for para inicializar las variables 
+	y M debe ser mayor o igual a 5, entonces hacemos la operacion m=m - 5 
+	
+	Si se cumple la condicion entonces debe aparecer el mensaje "se compro un helado"
+	Tambien debe salir cuanto dinero le queda. 
+	Se ejecuta un bucle que comprara helado hasta que se agote su dinero.
+	Cuando se acabe el dinero debe salir "Ya no tiene dinero"
+	

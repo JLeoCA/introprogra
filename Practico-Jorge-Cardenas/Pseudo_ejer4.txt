@@ -1,0 +1,30 @@
+Nos piden un programa donde se le asigne un numero a un dia de la semana.
+Ejemplo:
+entrada: 1
+salida: 2
+
+Entonces en codigo lo veriamos asi:
+
+Declaramos la variable donde guardaremos el dia:
+int x;
+
+Mostramos el mensaje pidiendo un numero entre 1-7 al usuario
+
+cout<< <<endl;
+
+Lo guardamos en la variable int
+cin >> ;
+
+Usamos la sentencia Switch, donde tendremos casos. 
+	
+	switch(){}
+	case 1: donde si el usuario ingresa el numero "1" la salida debe ser "Lunes" siempre añadiendo el "break;" ya que una vez se comprueba termina ahi.
+	
+	
+	En caso de que no se cumpla ningun caso ocupamos 
+	
+
+	default "no existe ese dia" y siempre con "break;" 
+
+	
+
